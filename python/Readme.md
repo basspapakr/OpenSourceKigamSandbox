@@ -30,6 +30,8 @@
 
 ### Test Head
 
+git clone in terminal: >> `git clone -b python  https://github.com/nbeyond/OpenSourceKigamSandbox`
+
 $$y=log_a x^{abcd}$$
 
 
